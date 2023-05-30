@@ -15,4 +15,4 @@ The following screenshots show the finished page:
 ![End of body of page and footer](./assets/images/Screenshot%20bottom%20of%20page.png)
 
 The following link shows the finished page on GitPages:
-[GitPages Challenge 1 project](#)
+[GitPages Challenge 1 project](https://cordovamonica.github.io/weekly-challenge-1/)
