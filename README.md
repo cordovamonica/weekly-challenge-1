@@ -2,7 +2,7 @@
 
 ## Description
 
-I wanted to refactor the code to make the site more accessible to all users. I also wanted to clean up the code to make it more concise and change tags to accurately depict what was being done in the code. 
+I wanted to refactor the code to make the site more accessible to all users. I also wanted to clean up the code to make it more concise and change tags to accurately depict what was being done in the code. I also consolidated the class selectors in CSS to clean up the page. I added comments in the CSS to explain what each selector did. 
 
 ## Usage
 
